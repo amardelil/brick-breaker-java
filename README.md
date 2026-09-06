@@ -16,7 +16,7 @@ Break all the bricks using a paddle and ball – survive as long as you can!
 - **Dynamic ball physics** – angle changes based on where you hit the paddle.
 - **Score tracking** and **3 lives** (with heart indicators ❤️).
 - **Game Over** and **Win** states with restart option (`R` key).
-- Smooth, anti-aliased .
+- Smooth .
 
 ---
 
